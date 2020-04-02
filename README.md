@@ -19,6 +19,8 @@ But talking about programming languages that existed before the prime target rea
 
 So we will start with several hottest programming languages that 20 plus year olds might be interested in, nay, idolize, and demonstrate that there is one 50 plus years old programming called Forth, launched in 1968, that is superior to all the former, and even transcends the meaning of "beating its enemies", because it can "become part of its enemies", much like the legendary Mr Smith in the Matrix.
 
+https://github.com/udexon/Homoiconism/blob/master/Q23_Phos_Smashlet.md
+
 Then came MVC.
 
 Now, it takes nothing short of wizardry to simplify them.
