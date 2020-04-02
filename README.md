@@ -1,11 +1,15 @@
 # MAPSIMA
 MAPSIMA: Make Programming Simple Again
 
-Although many may disagree with one presidential candidate who benefitted from the "Make America Great Again" slogan, one has to admire the ingenuity in such a slogan -- invoking something people can recall and understand from the past -- and thus imitate it.
+Although many may disagree with one (former) presidential candidate who ultimately triumphed (pun?) from the "Make America Great Again" slogan, one has to admire the ingenuity in such a slogan -- invoking something people can recall and understand from the past -- and thus imitate it.
 
 The abbreviation MAPSIMA also pays tributes to MACSYMA or MAXIMA, the legendary computer algebra system software written in LISP, although Lispers may disagree with the approach taken here, very much based on Forth.
 
-So this repository is an entry point to guide readers, who may be experienced programmers or non-programmers, from 5 years old to 75 years old or beyond, to understand something no less than, and I boast not, the foundation of mathematics and programming. It will contain links to various articles already written in the other repositories or elsewhere, providing overview, additional explanations and perspectives, to repackage them like a traditional book, that readers may take away, read slowly and understand.
+So this repository is an entry point to guide readers, who may be experienced programmers or non-programmers, from 5 years old to 75 years old or beyond, to understand something no less than, and I boast not, the foundation of mathematics and programming. It will contain links to various articles already written in the other repositories (in this account) or elsewhere, providing overview, additional explanations and perspectives, to repackage them like a traditional book, that readers may take away, read slowly and understand.
+
+So it begins ....
+
+<hr>
 
 In the beginning, programming was simple.
 
