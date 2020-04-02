@@ -15,6 +15,10 @@ In the beginning, programming was simple.
 
 Of course it was.
 
+But talking about programming languages that existed before the prime target readers of this article (20 to 30 year olds) may interest only a few history enthusiasts -- so we will deal with them separately.
+
+So we will start with several hottest programming languages that 20 plus year olds might be interested in, nay, idolize, and demonstrate that there is one 50 plus years old programming called Forth, launched in 1968, that is superior to all the former, and even transcends the meaning of "beating its enemies", because it can "become part of its enemies", much like the legendary Mr Smith in the Matrix.
+
 Then came MVC.
 
 Now, it takes nothing short of wizardry to simplify them.
