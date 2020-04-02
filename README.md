@@ -13,6 +13,8 @@ So it begins ....
 
 In the beginning, programming was simple.
 
+Of course it was.
+
 Then came MVC.
 
 Now, it takes nothing short of wizardry to simplify them.
