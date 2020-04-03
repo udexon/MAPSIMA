@@ -1,7 +1,7 @@
 # MAPSIMA
 MAPSIMA: Make Programming Simple Again
 
-TO "Make Programming Simple Again" does not imply reduction in functoinalities. In fact, the complexities of existing programming langauges as "frameworks" have become the major hindrance in writing more intelligent and functional code, as increasing man hours are spent on learning, understanding and debugging increasingly complex codes. MAPSIMA is critical in simplifying these, so that the precious human mind can be focused on deeper and more fundamental problems in programming, engineering and mathematics.
+TO "Make Programming Simple Again" does not imply reduction in functoinalities. In fact, the complexities of existing programming langauges and "frameworks" have become the major hindrance in writing more intelligent and functional code, as increasing man hours are spent on learning, understanding and debugging increasingly complex codes. MAPSIMA is critical in simplifying these, so that the precious human mind can be focused on deeper and more fundamental problems in programming, engineering and mathematics.
 
 Although many may disagree with one (former) presidential candidate who ultimately triumphed (pun?) from the "Make America Great Again" slogan, one has to admire the ingenuity in such a slogan -- invoking something people can recall and understand from the past -- and thus imitate it.
 
