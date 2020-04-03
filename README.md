@@ -1,6 +1,8 @@
 # MAPSIMA
 MAPSIMA: Make Programming Simple Again
 
+TO "Make Programming Simple Again" does not imply reduction in functoinalities. In fact, the complexities of existing programming langauges as "frameworks" have become the major hindrance in writing more intelligent and functional code, as increasing man hours are spent on learning, understanding and debugging increasingly complex codes. MAPSIMA is critical in simplifying these, so that the precious human mind can be focused on deeper and more fundamental problems in programming, engineering and mathematics.
+
 Although many may disagree with one (former) presidential candidate who ultimately triumphed (pun?) from the "Make America Great Again" slogan, one has to admire the ingenuity in such a slogan -- invoking something people can recall and understand from the past -- and thus imitate it.
 
 The abbreviation MAPSIMA also pays tributes to MACSYMA or MAXIMA, the legendary computer algebra system software written in LISP, which inspires the mathematical, the more important half of this project, although Lispers may disagree with the approach taken here, which is very much based on Forth.
